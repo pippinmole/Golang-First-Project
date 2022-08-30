@@ -1,5 +1,4 @@
 name: Audit
-description: Runs all tests and makes sure they pass
 
 on:
   push:
