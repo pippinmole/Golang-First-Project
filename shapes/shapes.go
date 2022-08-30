@@ -1,6 +1,8 @@
 package shapes
 
-import "math"
+import (
+	"math"
+)
 
 type Shape interface {
 	Area() float64
